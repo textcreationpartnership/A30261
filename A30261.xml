@@ -1,0 +1,368 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some of the differences and alterations in the present Common-prayer-book, from the book established by law, in quinto &amp; sexto, Edw. 6. and 1 Eliz</title>
+            <author>Burges, Cornelius, 1589?-1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30261</idno>
+            <idno type="STC">Wing B5686</idno>
+            <idno type="STC">ESTC R215068</idno>
+            <idno type="EEBO-CITATION">99827059</idno>
+            <idno type="PROQUEST">99827059</idno>
+            <idno type="VID">31471</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30261)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31471)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1863:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some of the differences and alterations in the present Common-prayer-book, from the book established by law, in quinto &amp; sexto, Edw. 6. and 1 Eliz</title>
+                  <author>Burges, Cornelius, 1589?-1665.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Cornelius Burges.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England. --  Book of common prayer --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:31471:1"/>
+            <pb facs="tcp:31471:1" rendition="simple:additions"/>
+            <head>Some of the DIFFERENCES and ALTERATIONS In the Preſent Common-Prayer-Book, FROM The BOOK eſtabliſhed by LAW, in <hi>quinto &amp; ſexto, Edw.</hi> 6. and 1 <hi>Eliz.</hi>
+            </head>
+            <div type="part">
+               <head>The Kalendar.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Here are ſundry Saints daies (although in black Letters) not found in the Books of 5.6. <hi>Edw.</hi> 6. or 1. <hi>Eliz.</hi> to the number of 50. and moe. Which however it may ſeem a ſmall mat<g ref="char:EOLhyphen"/>ter, yet Time may turn them into <hi>Red</hi> Letters, and ſo claim obſervance of them. For Dr <hi>Cou<g ref="char:EOLhyphen"/>ſens</hi> in his <hi>Kalendar</hi> (which he calls <hi>the Kalen<g ref="char:EOLhyphen"/>dar of the Church</hi>) in his Book of <hi>Devotions,</hi> hath put one of them already: <hi>viz.</hi> St <hi>Barnabies.</hi> Day, into <hi>Red,</hi> which, however the <hi>Epiſtle and Goſpel</hi> for that day, and for <hi>the Con<g ref="char:EOLhyphen"/>verſion of S. Paul,</hi> be extant in the Service Book; yet, in 2. <hi>Edw.</hi> 6. and in 5.6. <hi>Edw.</hi> 6. thoſe Dayes were expunged out of the Cata<g ref="char:EOLhyphen"/>logue of Holy Daies.</p>
+               <p>On <hi>Aug.</hi> 7. <hi>The name of Jeſus</hi> is put in for an old <hi>Holy-day;</hi> which, however uſed in times of Popery (but, under a more gentle Ti<g ref="char:EOLhyphen"/>tle
+<note n="a" place="margin">Fe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note>) even in 2. as well as in 5.6. <hi>Edw.</hi> 6. and 1. <hi>Eliz.</hi> it was ex<g ref="char:EOLhyphen"/>pelled. Howbeit, Dr <hi>Couſens,</hi> in his fore-mentioned <hi>Devotions,</hi>
+                  <pb n="2" facs="tcp:31471:2"/>hath already ſet down proper Leſſons for that <hi>day:</hi> viz. <hi>Mat.</hi> 1. and <hi>Philip.</hi> 2. which ſheweth how deſirous ſome are to keep an Holy-day to a Name.</p>
+            </div>
+            <div type="part">
+               <head>The Order for Proper Leſſons.</head>
+               <p>On <hi>Whitſunday,</hi> 1 <hi>Eliz.</hi> the <hi>firſt Leſſon</hi> at <hi>Even. Prayer</hi> was <hi>Deut.</hi> 18. now, that is thruſt out, and <hi>Wiſd.</hi> 1. crept into the room. And if we look into the <hi>Leſſons</hi> for <hi>Holy-daies,</hi> we ſhall find many Chap<g ref="char:EOLhyphen"/>ters of the <hi>Canonical</hi> Scripture laid aſide, and <hi>Apocryphal</hi> Chapters ordered to be read. See ſome inſtances in the Mar<g ref="char:EOLhyphen"/>gent,
+<note place="margin">
+                     <table>
+                        <row>
+                           <cell role="label">
+                              <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>alendar.</cell>
+                           <cell role="label">The New.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>en. 46.</cell>
+                           <cell>
+                              <hi>Wiſd.</hi> 5.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>en. 47.</cell>
+                           <cell>
+                              <hi>Wiſd.</hi> 6.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>xod. 12.</cell>
+                           <cell>
+                              <hi>Wiſd.</hi> 9.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>xod. 13.</cell>
+                           <cell>
+                              <hi>Wiſd.</hi> 12.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>um. 33.</cell>
+                           <cell>
+                              <hi>Wiſd.</hi> 19.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>b 31.</cell>
+                           <cell>
+                              <hi>Ecclus.</hi> 15.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>b 32.</cell>
+                           <cell>
+                              <hi>Ecclus.</hi> 19.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ccleſ. 10.</cell>
+                           <cell>
+                              <hi>Ecclus.</hi> 21.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ccleſ. 11.</cell>
+                           <cell>
+                              <hi>Ecclus.</hi> 23.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>zek. 3.</cell>
+                           <cell>
+                              <hi>Ecclus.</hi> 25.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>zek. 6.</cell>
+                           <cell>
+                              <hi>Ecclus.</hi> 29.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ic. 7.</cell>
+                           <cell>
+                              <hi>Ecclus.</hi> 35.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>aum. 1.</cell>
+                           <cell>
+                              <hi>Ecclus.</hi> 38.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ech. 7.</cell>
+                           <cell>
+                              <hi>Ecclus.</hi> 39.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ech. 8.</cell>
+                           <cell>
+                              <hi>Ecclus.</hi> 44.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>udg. 14.</cell>
+                           <cell>
+                              <hi>Ecclus.</hi> 51.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ſa 60.</cell>
+                           <cell>
+                              <hi>Wiſd.</hi> 1.</cell>
+                        </row>
+                     </table>
+                  </note> at the Letter <hi>C.</hi>
+               </p>
+               <p>There are ſundry other Leſſons altered, which I here omit. It is true, the <hi>Stat.</hi> of 1 <hi>Eliz.</hi> alloweth <hi>one alteration or addition of certain Leſſons to be uſed on every Sunday in the year:</hi> but, after mention of ſome <hi>by name,</hi> it addeth, <hi>And none other, or otherwiſe.</hi> Alſo in the pre<g ref="char:EOLhyphen"/>ſent <hi>Kalendars,</hi> there are four Chapters of <hi>Joſhua</hi> left out, that were in the <hi>Kalendars</hi> of 5. and 6. <hi>Edw.</hi> 6. And, on <hi>Octob.</hi> 13. <hi>Judith</hi> 15, 16. are appointed now to be read; but no ſuch thing in 5, 6. <hi>Edw.</hi> 6. Which deſerves conſideration, ſeeing ſo many <hi>Canonical</hi> Chapters of uſe, are not at all appointed to be read in publike.</p>
+            </div>
+            <div type="part">
+               <head>The Rubricks.</head>
+               <p>The firſt Page of the preſent Books, appoint Miniſters to uſe ſuch Ornaments as were of uſe in 2. <hi>Edw.</hi> 6. not declaring what thoſe be. The Book eſtabliſhed in 5.6. <hi>Edw.</hi> 6. hath no ſuch order. The Book of <hi>Canons, Can.</hi> 24. enjoyneth other Ornaments. Here<g ref="char:EOLhyphen"/>by Miniſters muſt break that <hi>Canon,</hi> or the preſent <hi>Rubrick,</hi> which the 14th. <hi>Canon</hi> requireth all to obſerve. So that the 14th. <hi>Canon</hi> and the 24th. contradict each other. And neither thoſe <hi>Canons,</hi> nor that Rubrick, nor this Book, are eſtabliſhed by Law.</p>
+               <p>After the <hi>Communion,</hi> there are in all Service-Books of 5, 6. <hi>Edw.</hi> 6. ſeven <hi>Rubricks.</hi> Which number remaineth; but, the Third
+<pb n="3" facs="tcp:31471:2"/>is divided into two, and the fourth wholly loſt. In which fourth, the Compilers have ſolidly and excellently declared in what ſenſe they intended <hi>Kneeling at the Communion.</hi> The loſs whereof hath occaſioned much ſtumbling and offence; yea, much trouble and perſecution. That <hi>Rubrick</hi> was this.</p>
+               <p>
+                  <hi>Although no Order can be ſo perfectly deviſed, but it may be of ſome, either for their Ignorance and Infirmity, or elſe of Malice and Obſtinacy, miſconstrued, depraved, or interpreted in a wrong part; yet becauſe brotherly Charity willeth that, ſo much as conveniently may be, Offences ſhould be taken away; therefore we willing to do the ſame. Whereas it is Ordained in the Book of Common-Prayer, in the Adminiſtration of the Lords Supper, that the Communicants, kneeling, ſhould receive the Holy Communion; which thing being well meant for a ſignification of the hum<g ref="char:EOLhyphen"/>ble and grateful acknowledging of the benefits of Chriſt, given unto the Worthy Receiver, and to avoid the profanation and diſorder which about the Holy Communion might elſe enſue. Leſt yet the ſame Kneeling might be thought or taken otherwiſe, we do declare, that it is not meant thereby, that any Adoration is done, or ought to be done, either unto the Sacramen<g ref="char:EOLhyphen"/>tal Bread and Wine there bodily received, or unto any real and eſſential Preſence there being of Chriſts natural fleſh and blood. For, as concern<g ref="char:EOLhyphen"/>ing the Sacramental Bread and Wine, they remain ſtill in their very na<g ref="char:EOLhyphen"/>tural Subſtances, and therefore may not be adored: for, that were Ido<g ref="char:EOLhyphen"/>latry to be abhorred of all faithful Chriſtians. And, as concerning the natural Body and Bloud of our Saviour Chriſt, they are in Heaven, and not here: for it is contrary to the truth of Chriſts true natural Body to be in moe places than one, at one time.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Body of the Book it ſelf.</head>
+               <p>There is a whole Prayer now left out, at the end of the <hi>Letany,</hi> which was extant in the Books of 5.6. <hi>Edw.</hi> 6. to be uſed in times of Dearth or Famine: which was this:</p>
+               <p>
+                  <hi>O God merciful Father, which in the time of</hi> Heliſeus <hi>the Prophet, d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dſt ſuddenly turn in</hi> Samaria, <hi>great ſcarcity and dearth into plenty and cheapneſs, and extream famine into abundance of victual; have pity up<g ref="char:EOLhyphen"/>on us that now be puniſhed for our ſins with like adverſity. Encreaſe the
+<pb n="4" facs="tcp:31471:3"/>fruits of the Earth by thy heavenly benediction; and grant that we recei<g ref="char:EOLhyphen"/>ving thy bountiful liberality, may uſe the ſame to thy glory, our comfort, and relief of our needy Neighbours, through Jeſu Chriſt our Lord, Amen.</hi>
+               </p>
+               <p>Moreover, there are ſundry Prayers (ſome before, ſome in King <hi>James</hi> his time) put into the preſent Leiturgie; as alſo ſome things into the Catechiſm, which are not confirmed by Parliament. Which Additions (although uſeful) being not legally ratified, hath imboldened ſome to make alterations at their pleaſure. For inſtance, The Prayer for the <hi>Queen</hi> and Royal <hi>Family,</hi> before the year 1627. began thus; <hi>Almighty God which haſt promiſed to be a Father of thine elect and of their ſeed:</hi> but now, thus; <hi>Almighty God the fountain of all goodneſs.</hi> Which change was a great Preſum<g ref="char:EOLhyphen"/>ption, and may ſeem to imply an excluſion of the Royal Stem out of the number of Gods <hi>Elect.</hi> This alteration was firſt made in the Books appointed to be uſed, about that time, at publick Faſts; and thence, was ſtollen into the Book of Common Prayer. Of which, no reaſon can be diſcovered, unleſs this; that the word <hi>Elect,</hi> diſtaſted the favourers of Popiſh <hi>Arminianiſm.</hi>
+               </p>
+               <p>Likewiſe the reading Pſalms, now thruſt into the Common Prayer Books, (pretended to be eſtabliſhed by Law) were no part thereof in 5.6. <hi>Edw.</hi> 6. or in 1. <hi>Eliz.</hi> For neither of the Books then printed in <hi>Folio,</hi> for publick uſe in Churches, had the Pſalms in them; but only a direction what Pſalms ſhould every day be read; which were accordingly read out of the Bibles then uſed in Churches. It is therefore, very hard, and unreaſonable, to continue that Tranſlation; and, to enjoyn, and tie men to read thoſe abuſed Pſalms, as now they ſtand in that Book. And it is a great wrong to the people: that Verſion being very defective and corrupt. Take ſome inſtances wherein that differs from the Kings laſt authorized Tranſlation now only allowed to be read in Churches; as alſo, from the Original it ſelf.</p>
+               <list>
+                  <head>Pſal.
+<note place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tranſt. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>amon<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ok.</note> 28.9. <hi>The Lord is my ſtrength.</hi> In the new, thus, <hi>The Lord is their ſtrength,</hi> ver. 8.</head>
+                  <item>37.38. <hi>Keep innocency, and take heed to the thing that is right.</hi> In the new, <hi>Mark the perfect man, and behold the just,</hi> ver. 37.</item>
+                  <pb n="5" facs="tcp:31471:3"/>
+                  <item>58.8. <hi>So let indignation vex them as a thing that is raw.</hi> In the new, <hi>He taketh them away as with a whirlewind, both living and in his wrath,</hi> ver. 9.</item>
+                  <item>68.6. <hi>Maketh men to be of one mind in an houſe.</hi> In the new, <hi>Setteth the ſolitary in families.</hi>
+                  </item>
+                  <item>105.28. <hi>They were not obedient.</hi> In the new, <hi>They rebelled not againſt his word.</hi>
+                  </item>
+                  <item>107.40. <hi>Though he ſuffer them to be evil intreated.</hi> In the new, <hi>He poureth contempt upon Princes.</hi>
+                  </item>
+                  <item>125.3. <hi>The rod of the wicked cometh not.</hi> In the new, <hi>the rod of the wicked reſteth not upon the lot of the righteous.</hi>
+                  </item>
+               </list>
+               <p>In <hi>Pſal.</hi> 14. there are three whole Verſes, which are not in the Original, nor in the reviſed Tranſlation, nor in the Greek 72. but only in the Popiſh vulgar Bibles. To excuſe it by ſaying, All thoſe Verſes are found together in <hi>Rom.</hi> 3. is a fig-leaf. For, the A<g ref="char:EOLhyphen"/>poſtle never meant to produce all thoſe words as taken out of one place; but only to collect out of ſeveral Texts of the Old Teſta<g ref="char:EOLhyphen"/>ment, ſundry teſtimonies to prove <hi>all men to be ſinners.</hi> Accor<g ref="char:EOLhyphen"/>dingly, he took three Verſes out of <hi>Pſal.</hi> 14. one out of <hi>Pſal.</hi> 140. another out of <hi>Pſal.</hi> 10. another out of <hi>Iſa.</hi> 59. All which, the Old Tranſlators unadviſedly thruſt into the 14. <hi>Pſalm,</hi> as parts of that one Scripture.</p>
+               <p>I forbear to mention other <hi>Pſalms,</hi> wherein, ſometimes words, ſometimes whole verſes are left out; and, much of the reſt is very improperly and impertinently tranſlated: which in the Leiturgy provided for <hi>Scotland,</hi> was redreſſed; yet the Book (for ſundry o<g ref="char:EOLhyphen"/>ther defects, impertinencies, and redundances) was refuſed. This makes ſport for Papiſts and Atheiſts, to find how much our Tran<g ref="char:EOLhyphen"/>ſlations publickly uſed, do enterfere, and jar; and, how corrupt ſome of them be.</p>
+               <p>Thus of the differences between the old Common-Prayer-Books confirmed by Law, and the preſent Common-Prayer-Books ſo much magnified and adored, not only by the common ſort, but by too many of thoſe who pretend to learning and skill in the Publick <hi>Offices</hi> of the Church of <hi>England;</hi> but abuſe the people; yea, Magiſtracy, and God himſelf therein. For, ſtill the <hi>Preface</hi> of the Book runs thus, <hi>That nothing is enjoyned to be read,
+<pb n="6" facs="tcp:31471:4"/>but that which is the pure word of God, or that which is evidently grounded thereupon:</hi> which (as our bold Maſters have ordered the matter) is falſe, and a meer cheat put upon the people of God.</p>
+               <p>Having thus given a taſte of the differences between the Old and New Books, I hold it needful to ſhew how unſafe it might be hereupon to conclude no more but this, <hi>Then let the preſent Book of Common-Prayer be compared with the old that was eſtabliſhed, and be reformed by it.</hi> For, even in the Book that was eſtabliſhed by Parliament, there are ſundry incongruous and uncomely expreſ<g ref="char:EOLhyphen"/>ſions; and, ſome groſs miſtakes of the Scripture it ſelf: eſpecial<g ref="char:EOLhyphen"/>ly in the Tranſlations of the <hi>Epiſtles</hi> and <hi>Goſpels.</hi> Which Tran<g ref="char:EOLhyphen"/>ſlation uſed in the Book of Common-Prayer, is as antient as the 35. of <hi>Hen.</hi> 8. (and uſed firſt in private <hi>Primmars,</hi> being tranſla<g ref="char:EOLhyphen"/>ted out of the Maſs-Books and other Offices of the Romiſh Church) for want of a better Tranſlation in the Reign of <hi>Edward</hi> the ſixth. For Example,</p>
+               <p>
+                  <hi>When men be drunk.</hi>
+                  <note place="margin">
+                     <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ranſ-Goſp.</hi> on 2 Sund. after <hi>Epiph. Epiſt.</hi> on 4 Sund. in <hi>Lent.</hi>
+                  </note> But, in the new, <hi>When men have well drunk.</hi>
+               </p>
+               <p>
+                  <hi>Mount Sinai is Agar in Arabia, and bordereth up<g ref="char:EOLhyphen"/>on the City which is now called Jeruſalem:</hi> a groſs miſtake both of Scripture, and Topography. The new Tranſlation therefore renders it thus: <hi>This Hagar is mount Sinai in Arabia, and anſwereth to Hieruſalem which now is.</hi> He ſaith not, <hi>Mount Sinai is Agar;</hi> for, that is not ſo. But, <hi>Hagar is mount Sinai:</hi> that is, a repreſen<g ref="char:EOLhyphen"/>tation or figure of it. Nor doth the Apoſtle ſay, that <hi>mount Sinai in Arabia bordered upon Hieruſalem.</hi> For, that is falſe; <hi>Arabia</hi> being many hundred miles diſtant from <hi>Hieruſa<g ref="char:EOLhyphen"/>lem.</hi> And the <hi>Mount</hi> whereof St. <hi>Paul</hi> ſpeaks, was a type of it, not <hi>bordering</hi> on it.</p>
+               <p>
+                  <hi>He was found in his apparel as a man.</hi>
+                  <note place="margin">
+                     <hi>Epiſt.</hi> on <hi>Palm</hi>-Sunday.</note> In the new, <hi>He was found in faſhion as a man.</hi> The word is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which imports, not apparel, but the
+<pb n="7" facs="tcp:31471:4"/>form, or figure, which includeth the real ſub<g ref="char:EOLhyphen"/>ſtance and true nature of the thing whereof it is a form.</p>
+               <p>
+                  <hi>Which is Father of all that is called father in heaven and in earth.</hi>
+                  <note place="margin">
+                     <hi>Epiſt.</hi> on 16 Sun. after <hi>Trin.</hi>
+                  </note> (Then) the Father, muſt needs be Father to himſelf. The new Tranſlation, therefore renders it, <hi>Of whom the whole family of heaven and earth is named.</hi> So the Original, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>Much more might be added, not only againſt the preſent uneſta<g ref="char:EOLhyphen"/>bliſhed Leiturgy, but againſt that which was confirmed. But this ſhall ſuffice. For my intention neither is, nor ever was to deſtroy, or caſt off all Forms: but only to ſhew ſome grounds of excepti<g ref="char:EOLhyphen"/>on againſt this. And ſeeing this is ſo much cried up, that the moſt, place all their Devotion and Religion in it, and come lit<g ref="char:EOLhyphen"/>tle ſhort of the Iſraelites in abuſing of the <hi>brazen Serpent,</hi> which by Gods own command, was erected in the Wilderneſs; Autho<g ref="char:EOLhyphen"/>rity may conſider whether it be not honourable, ſafe, and neceſ<g ref="char:EOLhyphen"/>ſary to deal with both Books, as <hi>Hezekiah</hi> did with that Idolized <hi>Serpent;</hi> and carefully to provide a better in the room; as that good King did, in reforming the whole Publike Service of God: there being now far better means, and fairer opportunities of ſo doing, than in the times of compiling the Ancient Leiturgy by thoſe Reverend and Renowned Biſhops and Martyrs that did compoſe it.</p>
+            </div>
+            <trailer>
+               <q>
+                  <bibl>
+                     <hi>ROM. 10.22.</hi>
+                  </bibl>
+                  <p>Happy is he that condemneth not himſelf in that thing which he alloweth.</p>
+               </q> FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
